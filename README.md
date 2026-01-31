@@ -46,7 +46,7 @@ npx playwright install chromium
 
 ```
 .
-├── swift-translator-tests.spec.js    # Main test file
+├── translater.spec.js    # Main test file
 ├── playwright.config.js              # Playwright configuration
 ├── package.json                      # Project dependencies
 └── README.md                         # This file
@@ -178,10 +178,6 @@ Test results are saved in the `test-results/` directory:
 - Screenshots and videos are captured only on failure
 - All tests use the same base URL configured in `playwright.config.js`
 
-## License
+ 
 
-This project is for educational purposes as part of IT3040 - ITPM assignment.
-
-## Author
-
-BSc (Hons) in Information Technology - Year 3 Student
+ 
